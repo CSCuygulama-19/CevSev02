@@ -5,7 +5,6 @@
 
 ## Harita Ekranı / Home
 ![Harita](https://user-images.githubusercontent.com/60198225/79050678-5a19b800-7c34-11ea-8240-fd3cd85288d9.PNG)
-![harita2](https://user-images.githubusercontent.com/60198225/79050679-5c7c1200-7c34-11ea-8619-9b1e42712d7e.PNG)
 ![Harita3](https://user-images.githubusercontent.com/60198225/79050685-6140c600-7c34-11ea-9196-e08cb206b8d3.PNG)
 
 # Profil Ekranı
