@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077081305346",
+    "firebase_url": "https://eren-yarar-cevsev.firebaseio.com",
+    "project_id": "eren-yarar-cevsev",
+    "storage_bucket": "eren-yarar-cevsev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077081305346:android:a6f17434af64834c63921b",
+        "android_client_info": {
+          "package_name": "com.erenyarar.cscevsev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077081305346-sb5cvjs5v26b7sdhma1lelsttb6p4o6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DfkAac7Iqa9Uy5LkSnMFLO88_4zC9h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077081305346-sb5cvjs5v26b7sdhma1lelsttb6p4o6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
